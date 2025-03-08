@@ -33,9 +33,6 @@ In this VR-based game, players can experience the process of Inguinal hernia rep
 2. Follow the on-screen instructions to start the surgical procedure.
 3. Use the VR controllers to interact with the virtual tools and complete the Inguinal hernia repair.
 
-## Acknowledgments
-We would like to extend our gratitude to the organizers of the REALMS HACKATHON and KJ Somaiya Vidyavihar for providing this opportunity. Special thanks to our mentors and supporters for their guidance and encouragement.
-
 ## Future Work
 We aim to continue improving the game by adding more detailed scenarios, expanding the educational content, and enhancing the overall user experience. Stay tuned for updates and new features!
 
