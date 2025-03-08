@@ -22,13 +22,11 @@ In this VR-based game, players can experience the process of Inguinal hernia rep
 - **Blender**: 3D modeling software for creating detailed anatomical models and environments.
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/vr-inguinal-hernia-repair.git
-   ```
-2. Open the project in Unity.
-3. Connect your VR headset and ensure the necessary SDKs are installed.
-4. Build and run the project.
+1. download the assets.zip file from the release tab.
+2. Unzip the file
+3. Open the project in Unity.
+4. Connect your VR headset and ensure the necessary SDKs are installed.
+5. Build and run the project.
 
 ## Usage
 1. Launch the game and put on your VR headset.
